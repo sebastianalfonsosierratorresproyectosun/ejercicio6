@@ -1,0 +1,40 @@
+.titulo{
+    text-align: center;
+}
+
+.contenedor_flex{
+    display: flex; 
+}
+
+.contenedor_justify{
+    justify-content: space-between;
+    
+}
+
+.div50percent{
+    width: 50%;
+}
+
+.div40percent{
+    width: 40%;
+}
+
+
+
+.div60percent{
+    
+    width: 60%;
+}
+
+.imagen{
+    
+    width: 150px;
+    height: 150px;
+}
+
+.divs_finales{
+    flex-direction: column;
+    text-align: center;
+    width: 25%;
+}
+
